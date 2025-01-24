@@ -1,0 +1,9 @@
+# Ignore built saved model
+saved_model_dir/
+
+# Ignore log files
+*.tflite
+
+# Ignore IDE files
+.vscode/
+.idea/
