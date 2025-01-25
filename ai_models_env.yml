@@ -1,0 +1,12 @@
+name: ai-models-env
+channels:
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - tensorflow
+  - scikit-learn
+  - matplotlib
+  - pip
+  - pip:
+    - tensorflow-hub
