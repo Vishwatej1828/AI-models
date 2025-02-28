@@ -1,5 +1,5 @@
 # Ignore the generated saved models directory
-tf_lite_models_dir/
+# tf_lite_models_dir/
 
 # Ignore the generated .tflite models
 tf_models_dir/
